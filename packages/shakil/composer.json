@@ -1,0 +1,13 @@
+{
+    "name": "shakil/timezones",
+    "description": "\"Demo project to practice\"",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mahibur Rahman",
+            "email": "mmr.akand@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
