@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Test Welcome
+                    Laravel Test Welcome okk
                 </div>
 
                 <div class="links">
